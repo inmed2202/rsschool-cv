@@ -1,3 +1,5 @@
+![CV-Photo](/CV.png "CV-Photo")
+
 # Inna Medvedeva
 
 - Email: studia.ms.inmed.98@gmail.com
